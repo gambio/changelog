@@ -1,0 +1,7 @@
+4.2.1.0:
+ -  [Checkout] Products with Customizer cannot be deleted in shopping cart after changing quantity / Artikel mit Customizer können nach Mengenänderung nicht mehr gelöscht werden. (68062)
+ -  [Eigenschaften] Grundpreis (VPE) wird nicht angezeigt wenn die Artikel aus dem Warenkorb aufgerufen werden wenn nur der Hauptartikel konfiguriert ist und nicht in den Eigenschaftskombinationen. (68033)
+ -  [Frontend] Die Artikeldetailseite zeigt initial nicht den korrekten Preis an, wenn das vorausgewählte Attribut nicht das günstigste ist | The product detail page does not initially show the correct price if the preselected attribute is not the cheapest. (68031 | Private)
+ -  [Frontend] Der Preis von Artikeln mit Attributen in der Kategorie ist falsch, wenn die Attribute in der Kategorie ausgewählt werden können | The price of products with attributes in the category is wrong if the attributes can be selected in the category. (68030)
+ -  [Sonstiges] Settings of the display of stock in categories with property combinations is misleading / Einstellungen zur Darstellung des Lagerbestandes bei Eigenschaftsartikeln ist irreführend. (68029)
+ -  [Sonstiges] Product weight behaviour with attributes. (68021)

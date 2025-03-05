@@ -1,0 +1,5 @@
+4.5.2.2:
+ -  [Adminbereich] Switcher under "Settings->Static pages" show wrong status. (69641)
+ -  [Adminbereich] Man kann keine Berechtigungen für untergeordnete Rechte vergeben, es gibt ein JS Fehler. (69580 | Private)
+ -  [Frontend] Custom page links in secondary navigation don't work in Honeygrid theme. (69645)
+ -  [Frontend] Login not possible in Malibu theme, DropDown menu always closes. (69644)

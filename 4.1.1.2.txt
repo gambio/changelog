@@ -1,0 +1,4 @@
+4.1.1.2:
+ -  [Adminbereich] Session may be lost when you access the new admin pages. (67097)
+ -  [Core] Das hinzufügen von unterschiedlichen Artikeln in den Warenkorb und Merkzettel führt teilweise zur Hinzufügung des immer gleichen Artikels. (67138)
+ -  [Frontend] Für den Zoom fehlt der Fallback auf das Popup-Bild, wenn das Originalbild nicht existiert. (67133)

@@ -1,0 +1,3 @@
+4.9.4.1:
+ -  [Adminbereich] Artikel können nicht bearbeitet werden, wenn die englische Sprache im Gambio Admin deaktiviert ist. (70968)
+ -  [Core] Kontaktformular ist nicht aufrufbar wenn reCapture aktiv ist / Contact form cannot be called up when reCapture is active. (70962)

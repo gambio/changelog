@@ -1,0 +1,9 @@
+4.0.0.1:
+ -  [Core] Auf manchen Servern funktioniert das rekursive Löschen von Verzeichnissen nicht zuverlässig. (66396)
+ -  [Core] Wenn man Attribute konfiguriert hat mit unterschiedlichen VPE Werten wird in der Artikelüberischt der Grundpreis nicht korrekt berechnet. (66361)
+ -  [Frontend] Products default image misaligned on start page (widget) / 4.0.0.1. (66398)
+ -  [Frontend] Attribute und VPE können in der Übersicht einen falschen VPE Preis anzeigen. (66393)
+ -  [Frontend] Frage zum Produkt / Cookie Consent Tool. (66392)
+ -  [Frontend] Text "Das Passwort stimmt nicht überein" wird angezeigt, wenn man die Felder leert. (66388)
+ -  [Frontend] Default product image is not shown / Das standard Artikelbild wird nicht mehr angezeigt. (66369)
+ -  [Sonstiges] Re-Captcha v2 doesn't work after Update from 3.15.4.2 to 4.0.0.0. (66391 | Private)

@@ -1,0 +1,8 @@
+4.9.2.1:
+ -  [Adminbereich] Blättern der Seiten im Gambio Admin bei Sonderangebote nicht möglich, nachdem man ein Sonderangebot bearbeitet hat / Scrolling of pages in Gambio Admin for special offers not possible after editing a special offer. (70820)
+ -  [REST-API] Dateien im Ordner GambioApi/Modules/ProductVariant/ werden nicht gelöscht, wenn man ein Update auf 4.9.1.0 macht. (70779)
+ -  [Security] usd-2023-0046 | Insecure Deserialization. (70864 | Private)
+ -  [Security] usd-2023-0050 | Sensitive Data in log files. (70852 | Private)
+ -  [Security] usd-2024-0003 | Account Takeover. (70850 | Private)
+ -  [Security] usd-2023-0047 | SQL-Injection. (70848 | Private)
+ -  [ShipCloud] Shipcloud Modul auf PHP 8.1 und PHP 8.2 Kompatibilät prüfen und korrigieren / Check and correct Shipcloud module for PHP 8.1 and PHP 8.2 compatibility. (70774)

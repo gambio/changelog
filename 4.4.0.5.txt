@@ -1,0 +1,4 @@
+4.4.0.5:
+ -  [Cookie Consent] Cookie Consent Update 1.0.3 Integration. (69596)
+ -  [Security] Security Update 2022-03 v1.0. (69595)
+ -  [Security] Security vulnerability in AutoUpdater. (69594 | Private)

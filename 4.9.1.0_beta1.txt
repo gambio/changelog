@@ -1,0 +1,10 @@
+4.9.1.0_beta1:
+ -  [Adminbereich] Bestellungen können im Kunden-Profil nicht angezeigt werden, wenn Produkte mit der ID 0 über API hinzugefügt werden. (70555)
+ -  [Adminbereich] Dateimanager erzeugt falsche Verlinkung zu Kategorie Bild / File manager creates wrong link to category image. (70337)
+ -  [Adminbereich] Beim Kopieren von Artikeln, sollten die Artikelbilder nicht mitkopiert werden, sondern nur referenziert werden / When copying products, the product images should not be copied, but only referenced.. (69909)
+ -  [Core] Bestellbestätigungsmails mit mehr als einem Artikel werden abgeschnitten | Confirmationmails with more than 1 product are cut off. (70614)
+ -  [Core] Um Überladungen von Klassenmethoden und -variablen in zu ermöglichen, sollte protected statt private genutzt werden | To allow overloading of class methods and variables, protected should be used instead of private. (70415 | Private)
+ -  [Core] update composer packages for GX 4.9. (70364 | Private)
+ -  [Core] Doctrine DBAL auf eine aktuelle Version bringen | update Doctrine DBAL. (69944 | Private)
+ -  [Frontend] Delete product_reviews_info.php page and associated code | product_reviews_info.php Seite samt zugehörigen Code löschen. (70347)
+ -  [Gutscheine] Gutschein E-Mail wird nicht versandt, wenn nur das Feld "Kunde" genutzt wird | Voucher Mail wont be send if you only use the "Customer" field. (70219)

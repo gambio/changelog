@@ -1,0 +1,3 @@
+4.6.0.2:
+ -  [Adminbereich] Update von Shopversion 4.6.0.0 auf 4.6.0.1 führt zu kaputtem Gambio Admin, wenn Google Services aus dem Gambio Store installiert ist. (69945)
+ -  [Payment] Postfinance v2 Module lassen sich nicht erneut installieren. (69946)

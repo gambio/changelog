@@ -1,0 +1,3 @@
+4.5.1.2:
+ -  [Security] Security Update 2022-01 v1.0. (69527)
+ -  [Security] SQL injection possible in xtcPrice::get_attributes_count(). (69524 | Private)

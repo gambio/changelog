@@ -1,0 +1,12 @@
+4.3.3.1:
+ -  [Adminbereich] Drittanbieter Module sind nicht mehr kompatibel wenn eine Überladung vom AdminApplicationTopExtenderComponent benutzt wird / Third-party modules are no longer compatible when an overload is used by the AdminApplicationTopExtenderComponent. (68305)
+ -  [Adminbereich] Gambio Admin Menü Cache wird nicht erneuert, wenn man den Cache für Moduldateien erneuert / Gambio Admin Menu Cache is not refreshed when refreshing the cache for module files. (68254)
+ -  [Checkout] Wenn Sprachcodes in URL aktiv, wird automatisch im Bestellvorgang wieder auf die Standardsprache umgestellt, obwohl in der URL eine anderer Sprachcode ist. (68294)
+ -  [Eigenschaften] Preise aktualisieren sich nicht bei der Verwendung von Eigenschaften mit Aufpreisen und ein Template statt Theme / Prices do not update when using properties with surcharges and a template instead of theme. (68287)
+ -  [Eigenschaften] Bei Auswahl einer Eigenschaftoption werden bereits die Bilder angezeigt einer Kollektion obwohl noch keine Kombination vollständig gewählt wurde / When selecting a property option, the images of a collection are already displayed although no combination. (68267)
+ -  [Frontend] Wenn eine Mindestbestellmenge von unter 1 hat und eine Mengenstaffel von 0.1 dann wird sofort eine Fehlermeldung angezeigt / If a minimum order quantity of less than 1 and a quantity scale of 0.1 is set an error message is displayed. (68320)
+ -  [Frontend] If minimum order amount is not '1', prices of other products in that category are affected / wenn Mindestbestellmenge nicht "1" ist, verändern sich die Preise der anderen Produkte in der Kategorie. (68258)
+ -  [GXModules] JavaScripte von Drittanbieter Modulen werden nicht ausgeführt / JavaScripts from third-party modules are not executed. (68252)
+ -  [Security] SEO tags in the head block are not protected from XSS | SEO-Tags im head-Bock sind nicht vor XSS geschützt. (68317 | Private)
+ -  [StyleEdit 4] Absolute urls are still stored in the settings.json | Absolute Pfade werden noch in die settings.json geschrieben. (68318)
+ -  [StyleEdit 4] StyleEdit saves Background Image URL with Domain if the field is empty / StyleEdit speichert Background Image URL mit Domain, wenn das Feld leer ist. (68301)

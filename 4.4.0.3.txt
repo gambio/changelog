@@ -1,0 +1,6 @@
+4.4.0.3:
+ -  [Admin Dashboard] The statistics on the Gambio Admin start page should be improved | Die Statistiken auf der Gambio Admin Startseite sollten überarbeitet werden. (68740)
+ -  [Core] An HTTP request to the shop sometimes establishes too many database connections | Ein HTTP-Request an den Shop baut teils zu viele Datenbankverbindungen auf. (68814)
+ -  [Frontend] Bei Wahl der Versandart Selbstabholung wird die Lieferadresse nicht auf die Shopbetreiberadresse gesetzt und damit häufig bei Auslandskunden ein falscher Mehrwersteuersatz berechnet. (68815)
+ -  [Security] Cross Site Request Forgery in account_edit.php should be prevented by page token | Cross Site Request Forgery in account_edit.php sollte durch page token verhindert werden. (68795 | Private)
+ -  [StyleEdit 4] Wenn man im StyleEdit4 eine Produktliste mit einer Kategorie einfügen will und die Artikel keine Lieferzeit haben, werden keine Artikel angezeigt. (68817)

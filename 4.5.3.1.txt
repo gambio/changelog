@@ -1,0 +1,6 @@
+4.5.3.1:
+ -  [Checkout] Wenn man Dienstleistungen und normale Artikel verkauft, sind alle Artikel versandkostenfrei. (69773)
+ -  [DevOps] V4 Integration tests are not executed in run-tests.sh . (69753 | Private)
+ -  [Frontend] Category is not callable if there is a subcategories with subcategories and they are set to be shown on main category level | Im Shop ist eine Kategorie u. U. nicht mehr aufrufbar, sofern sie verschachtelte Unterkategorien hat. (69770)
+ -  [Frontend] Wenn die Option "Kein Steuerausweis gem. Kleinuntern.-Reg. §19 UStG" statt der MwSt.-Angabe bei jedem Preis anzeigen lassen" aktiviert ist, wird der falsche Text in der Artikeldetailseite angezeigt. (69768)
+ -  [REST-API] REST API v3 documentation partly contains an Id as string instead of integer in examples | REST-API v3 Dokumentation enthält in Beispielen teils eine Id als String, statt als Integer. (69776 | Private)

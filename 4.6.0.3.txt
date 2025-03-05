@@ -1,0 +1,7 @@
+4.6.0.3:
+ -  [Adminbereich] Nachnahme wird nicht angezeigt, wenn nicht manuell eine Betragsobergrenze eingetragen wird | cod wont be shown if you dont enter a maximum price manually . (70306)
+ -  [Core] Tests are failing because of Spanish language unmatched asserts. (70293 | Private)
+ -  [Frontend] Staffelpreise werden falsch angezeigt / Scaled prices are not correkt in the product's detail page. (70274)
+ -  [HubConnector] Hub-Connector v1.23.8 Integration. (70271)
+ -  [Schnittstellen] IT Recht Abruf der Rechtstexte funktioniert nicht immer einwandfrei / IT Recht Retrieval of legal texts does not always work properly. (70030)
+ -  [Updater] Das 4.6.0.1 Update löscht fälschlicherweise Artikelexport-Profile | The 4.6.0.1 update incorrectly delete product export profiles . (70073)

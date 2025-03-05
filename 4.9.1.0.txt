@@ -1,0 +1,2 @@
+4.9.1.0:
+ -  [StyleEdit 4] Wenn man keine Zusatzoptionen hat, dann kann nicht der günstiges Aufpreis für die Produktliste ermittelt werden. (70759)

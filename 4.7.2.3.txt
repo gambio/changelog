@@ -1,0 +1,2 @@
+4.7.2.3:
+ -  [Afterbuy] The Afterbuy update directory is missing. (70289)

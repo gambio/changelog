@@ -1,0 +1,11 @@
+4.1.3.0:
+ -  [Adminbereich] Die Seitennavigation auf der Rechnungen-Seite im Gambio Admin wird kaputt dargestellt. (67420)
+ -  [Adminbereich] Die Anzeige der Dateien im ResponsiveFilemanager funktioniert nicht, wenn es Dateien mit ungültigem UTF-8 im Dateinamen gibt | The display of files in the ResponsiveFilemanager does not work if there are files with invalid UTF-8 in the file name. (67419)
+ -  [Adminbereich] Im ResponsiveFilemanager schließt sich das Fenster nach Auswahl eines gerade hochgeladenen Bildes nicht. (67418)
+ -  [Adminbereich] Die Suche und das Filtern von Kunden im Gambio Admin geht nicht mehr | The search and filtering of customers in Gambio Admin no longer works. (67414)
+ -  [Adminbereich] Shop nutzt nicht den eingegebenen "Verrechnung - Betreff Bestellbestätigung"-Wert bei einer Bestellung. (67272)
+ -  [CSV] timeout and row count limit for CSV export should be configurable by an overload. (67379 | Private)
+ -  [Core] Beim Löschen einer Kategorie über die GXML-API kann es zu einem SQL-Fehler kommen. (67377 | Private)
+ -  [Texte, Typos, Übersetzung] Typo in gambio_updater. (67405 | Private)
+ -  [Updater] Der Updater ermittelt Dateien, die verschoben werden müssen, nicht zuverlässig. (67422 | Private)
+ -  [Updater] Installer und Updater sollten von "Sie" auf "du" umgestellt werden. (67381)

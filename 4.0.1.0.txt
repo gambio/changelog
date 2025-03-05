@@ -1,0 +1,13 @@
+4.0.1.0:
+ -  [Adminbereich] Beim Anlegen eine neuen Sprache werden die Content-Manager Einträge nicht korrekt kopiert. Es werden einige Felder mit leerem Inhalt gefüllt die nicht leer sein dürfen. / When creating a new language, the Content Manager entries are not copied correctly. . (66758)
+ -  [Adminbereich] Session Cookies unter dem Cookie Consent Tool können gelöscht werden.. (66743)
+ -  [Adminbereich] Shop won't delete gambio_installer if you use the delete button in the backend. (66668)
+ -  [Checkout] Bestellungen können nicht richtig abgeschlossen werden, wenn man den PDFCreator aktiviert hat und AGB hinterlegt hat / Orders cannot be completed correctly if you have activated the PDFCreator and have entered your general terms and conditions. (66686)
+ -  [Core] SingleSignOn Buttons werden doppelt im DropDown für die Anmeldung angezeigt / SingleSignOn Buttons are displayed twice in all places. (66667)
+ -  [Malibu] Bei Update von einem Shop < GX 4.0, kann der Header im Anschluss des Updates kaputt aussehen. (66790)
+ -  [Malibu] Mobile tab contents on product info page don't have padding-top. (66777)
+ -  [Malibu] Default content widget on startpage does not show any products. (66774)
+ -  [Malibu] Product listings on default category pages have viewmode "list". (66772)
+ -  [Malibu] Malibus neuer Demo-Inhalt  muss als content manager alias verwendet werden für Kunden  die diese Id bereits verwenden / New Malibu demo content must be created as an alias. (66755)
+ -  [Partner] SSO/AmazonPay: Falscher Button im Warenkorb nach Deinstallation des SingleSignon-Moduls | Shopping cart shows wrong button after uninstalling SingleSignon module. (66685)
+ -  [Updater] Zweimaliges Ausführen des Updaters inkl. des v3.7.1.0 Updates führt zu Fehlern in der Content Manager Tabelle. (66756)

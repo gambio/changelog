@@ -1,0 +1,4 @@
+4.5.2.1:
+ -  [Core] The third salutaion type is missing on the shipping address and payment address forms. (69637)
+ -  [Frontend] Geschlechterauswahl fehlender Text für das dritte Geschlecht / Gender selection missing text for third gender. (69634)
+ -  [Frontend] Login nicht möglich im Honeygrid Theme, DropDown Menü schließt sich immer / Login not possible in Honeygrid theme, DropDown menu always closes. (69633)
