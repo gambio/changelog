@@ -15,7 +15,6 @@
  -  [Afterbuy] Import von Afterbuy Produkten verbessert
  -  [Core] Breadcrump-Link zum Produkt bei Produktbewertung hinzugefügt
  -  [Core] Verbesserte Fehlerbehandlung bei nicht existierenden Produkten
- -  [Adminbereich] Modul-Center-Filter verbessert
  -  [Checkout] Paketshops und Packstationen sind als Versandadresse nutzbar
  -  [Core] Dateimanager aktualisiert
  -  [Frontend] Artikel werden auf mobilen Geräten nicht mehr in den Warenkorb gelegt, wenn man mit dem Finger über den Warenkorbbutton scrollt
@@ -30,7 +29,6 @@
  -  [StyleEdit 4] Theme-Upload in StyleEdit 4 funktioniert nun auch mit einem PHP memory_limit von -1
  -  [REST-API] API Auth Token kann nun bei 1und1 verwendet werden
  -  [REST-API] Neuen API-Endpunkt hinzugefügt: shop-config
- -  [Adminbereich] Modul-Center wurde überarbeitet um Module in einer filterbaren Liste zusammenzufassen und Zusatzmodule aus dem Gambio Store herunterzuladen.
  -  [Sonstiges] USt-ID-Formate aktualisiert
  -  [Adminbereich] Sitemap kann jetzt auch generiert werden, wenn sämtliche Kategorien deaktiviert sind
  -  [Dateimanager] Im Log werden jetzt weniger Warnungen angezeigt, wenn ein Bild beschädigt ist
