@@ -1,4 +1,4 @@
-4.9.4.5:
+4.9.5.0:
  -  [PayOne] PayOne-Module wurden entfernt
  -  [Heidelpay] Heidelpay-Module wurden entfernt
  -  [StyleEdit4] Beim Bearbeiten von Widgets wie Tabs oder Carousel bleibt die Favoriten-Markierung nun am Element, nicht an der Zeile
