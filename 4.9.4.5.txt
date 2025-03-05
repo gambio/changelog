@@ -1,0 +1,10 @@
+4.9.4.5:
+ -  [PayOne] PayOne-Module wurden entfernt
+ -  [Heidelpay] Heidelpay-Module wurden entfernt
+ -  [StyleEdit4] Beim Bearbeiten von Widgets wie Tabs oder Carousel bleibt die Favoriten-Markierung nun am Element, nicht an der Zeile
+ -  [Afterbuy] Die Mehrwertsteuer aus Sperrgutzuschlägen wird nun korrekt von Gambio an Afterbuy übermittelt.
+ -  [Adminbereich] Englische Optionstexte für die Begriffe "Altergruppe" und "Geschlecht" werden nun im englischen Admin Dashboard verwendet.
+ -  [Checkout] Refactoring von den Bestellprozess. Die SEPA Daten werden nun bis das Prozessende in allen Bestellungsschritten gespeichert.
+ -  [Checkout] Wenn das Modul "Artikelzustandsbelehrung im Bestellvorgang" installiert und so konfiguriert ist, dass die entsprechenden Texte bestätigt werden müssen, werden diese nun optisch als Pflichtfelder gekennzeichnet
+ -  [Core] Artikeldetailseite: Der Warenkorb-Button wird nun deaktiviert, wenn eine 0 im Mengeneingabefeld eingegeben wird.
+ -  [Core] Artikeldetailseite: Wenn dem Hersteller des Artikels kein Bild zugewiesen wurde, wird nun stattdessen ein Hyperlink angezeigt
