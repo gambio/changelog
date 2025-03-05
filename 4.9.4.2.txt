@@ -1,0 +1,7 @@
+4.9.4.2:
+ -  [Adminbereich] Sendungsnummern werden nicht mehr mehrfach zu einer Bestellung hinzugefügt, wenn der Button versehentlich mehrfach angeklickt wird.
+ -  [Afterbuy] Beim Import von Artikeln aus Afterbuy bleibt die Mindestbestellmenge nun erhalten und wird nicht überschrieben.
+ -  [Core] ProductListing Log wird jetzt nur noch im Entwicklungsmodus geschrieben
+ -  [Partner] DHL Warenpost wurde durch DHL Kleinpaket ersetzt
+ -  [REST-API] Via API können Produkten jetzt auch Bilder zugewiesen werden, die in Unterordnern liegen
+ -  [Zusatzoptionen] Preise werden jetzt wieder aktualisiert, wenn man eine Zusatzoption mit Aufpreis auswählt
