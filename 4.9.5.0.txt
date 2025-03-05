@@ -8,3 +8,34 @@
  -  [Checkout] Wenn das Modul "Artikelzustandsbelehrung im Bestellvorgang" installiert und so konfiguriert ist, dass die entsprechenden Texte bestätigt werden müssen, werden diese nun optisch als Pflichtfelder gekennzeichnet
  -  [Core] Artikeldetailseite: Der Warenkorb-Button wird nun deaktiviert, wenn eine 0 im Mengeneingabefeld eingegeben wird.
  -  [Core] Artikeldetailseite: Wenn dem Hersteller des Artikels kein Bild zugewiesen wurde, wird nun stattdessen ein Hyperlink angezeigt
+ -  [Adminbereich] Filter für die Bestellübersicht verbessert
+ -  [SEO] robots.txt um Disallow: /*?srsltid erweitert, um doppelten Content bei Google zu vermeiden
+ -  [Frontend] Erweiterte Herstellerinformationen hinzugefügt
+ -  [Core] "Bezahlen mit Amazon"-Modul kann weiterhin verwendet werden, wenn es bereits installiert ist, kann jedoch nicht mehr neu installiert werden
+ -  [Afterbuy] Import von Afterbuy Produkten verbessert
+ -  [Core] Breadcrump-Link zum Produkt bei Produktbewertung hinzugefügt
+ -  [Core] Verbesserte Fehlerbehandlung bei nicht existierenden Produkten
+ -  [Adminbereich] Modul-Center-Filter verbessert
+ -  [Checkout] Paketshops und Packstationen sind als Versandadresse nutzbar
+ -  [Core] Dateimanager aktualisiert
+ -  [Frontend] Artikel werden auf mobilen Geräten nicht mehr in den Warenkorb gelegt, wenn man mit dem Finger über den Warenkorbbutton scrollt
+ -  [Gutscheine] Eingeschränkte Kupons auf Artikel werden jetzt korrekt behandelt
+ -  [Core] Schutz vor automatisierten Registrierungen durch Skripte erhöht
+ -  [Core] Verbesserte Handhabung beschädigter Bild-Dateien
+ -  [Core] Es wird kein Fehler mehr geloggt, wenn man die popup_content.php ohne Parameter aufruft
+ -  [Adminbereich] Performance des Filters in der Bestellübersicht verbessert
+ -  [Core] Zeitgesteuerte Aufgabe "Log-Dateien löschen" für Dateien, die älter sind als zwei Tage, ist jetzt standardmäßig aktiv, wenn dieser Wert bisher nicht gesetzt wurde
+ -  [Checkout] Ladezeit des Warenkorbes verbessert, wenn man sehr viele GX-Customizer Artikel hat
+ -  [Malibu] Bilder der Standardstartseite um alt-Attribute erweitert für BFSG
+ -  [StyleEdit 4] Theme-Upload in StyleEdit 4 funktioniert nun auch mit einem PHP memory_limit von -1
+ -  [REST-API] API Auth Token kann nun bei 1und1 verwendet werden
+ -  [REST-API] Neuen API-Endpunkt hinzugefügt: shop-config
+ -  [Adminbereich] Modul-Center wurde überarbeitet um Module in einer filterbaren Liste zusammenzufassen und Zusatzmodule aus dem Gambio Store herunterzuladen.
+ -  [Sonstiges] USt-ID-Formate aktualisiert
+ -  [Adminbereich] Sitemap kann jetzt auch generiert werden, wenn sämtliche Kategorien deaktiviert sind
+ -  [Dateimanager] Im Log werden jetzt weniger Warnungen angezeigt, wenn ein Bild beschädigt ist
+ -  [Adminbereich] Reihenfolge der Menüpunkte im Dropdown bei Artikelübersicht an Reihenfolge der Tabs in Artikelbearbeitung angepasst
+ -  [Partner] IPayment: Konfiguration wurde repariert; Zahlungen sind wieder möglich
+ -  [Adminbereich] Unterstützung für WebP Bilder
+ -  [Frontend] Verbesserungen für die Barrierefreiheit
+ -  [Frontend] Das Format für das Geburtsdatum wird jetzt je nach Sprache korrekt definiert
