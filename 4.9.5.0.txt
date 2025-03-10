@@ -10,7 +10,6 @@
  -  [Core] Artikeldetailseite: Wenn dem Hersteller des Artikels kein Bild zugewiesen wurde, wird nun stattdessen ein Hyperlink angezeigt
  -  [Adminbereich] Filter für die Bestellübersicht verbessert
  -  [SEO] robots.txt um Disallow: /*?srsltid erweitert, um doppelten Content bei Google zu vermeiden
- -  [Frontend] Erweiterte Herstellerinformationen hinzugefügt
  -  [Core] "Bezahlen mit Amazon"-Modul kann weiterhin verwendet werden, wenn es bereits installiert ist, kann jedoch nicht mehr neu installiert werden
  -  [Afterbuy] Import von Afterbuy Produkten verbessert
  -  [Core] Breadcrump-Link zum Produkt bei Produktbewertung hinzugefügt
