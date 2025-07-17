@@ -1,0 +1,15 @@
+4.9.6.0:
+    - [Front-End]: Das Jahr im Copyright Footer wird auf 2025 gesetzt
+    - [Barrierefreiheit]: Auf der Kategorieseite wird nun eine 100%ige Barrierefreiheit erzielt (Malibu Theme)
+    - [Admin]: Das Feld Firma lässt sich als Pflichtfeld anlegen
+    - [Admin]: Es wurde ein Fehler behoben, durch welchen die Installation von Modulen verhindert werden konnte.
+    - [Front-End]: Artikel konnten mit leerem Mindestmengenfeld in den Warenkorb gelegt werden
+    - [Front-End]: Das Formular für den Newsletter kann nicht mehr ohne E-Mail-Adresse abgeschickt werden
+    - [Admin]: Beim Öffnen eines Kundenprofils wurde ein Fehler behoben, wenn fehlerhafte Artikel und / oder Optionen auf der Merkliste des Kunden vorhanden sind.
+    - [Checkout]: Das '€' Zeichen wurde nach Auswahl einer Versandmethode nicht korrekt dargestellt.
+    - [Administration]: webP Bilder mit transparentem Hintergrund behalten diese nach dem Image Processing
+    - [PHP Kompatibilität]: Es erscheinen keine Warnungen mehr, wenn PHP 8.2 verwendet wird.
+    - [Installer]: Der Gambio Installer benötigt mindestens PHP 8.0
+    - [Kundenregistrierung]: Ein Problem mit der Prüfung der Umsatzsteuer-ID wurde behoben.
+    - [Barrierefreiheit]: Das Feld 'Postleitzahl' ist nun einheitlich bezeichnet
+    - [Hermes]: Bestellungen mit mehr als 10 Labels können ohne Warnungen abgerufen werden
