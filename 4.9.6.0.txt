@@ -8,7 +8,7 @@
     - [Admin]: Beim Öffnen eines Kundenprofils wurde ein Fehler behoben, wenn fehlerhafte Artikel und / oder Optionen auf der Merkliste des Kunden vorhanden sind.
     - [Checkout]: Das '€' Zeichen wurde nach Auswahl einer Versandmethode nicht korrekt dargestellt.
     - [Administration]: webP Bilder mit transparentem Hintergrund behalten diese nach dem Image Processing
-    - [PHP Kompatibilität]: Es erscheinen weniger Warnungen, wenn PHP 8.2 verwendet wird.
+    - [PHP Kompatibilität]: PHP 8.2 Kompatibilität verbessert.
     - [Installer]: Der Gambio Installer benötigt mindestens PHP 8.0
     - [Kundenregistrierung]: Ein Problem mit der Prüfung der Umsatzsteuer-ID wurde behoben.
     - [Barrierefreiheit]: Das Feld 'Postleitzahl' ist nun einheitlich bezeichnet
