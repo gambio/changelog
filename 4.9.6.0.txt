@@ -9,7 +9,8 @@
     - [Checkout]: Das '€' Zeichen wird jetzt nach Auswahl einer Versandmethode korrekt dargestellt.
     - [Administration]: webP Bilder mit transparentem Hintergrund behalten diese nach dem Image Processing
     - [PHP Kompatibilität]: PHP 8.2 Kompatibilität verbessert.
-    - [Installer]: Der Gambio Installer benötigt mindestens PHP 8.0
+    - [Installer]: Der Gambio Installer benötigt jetzt mindestens PHP 8.0
     - [Kundenregistrierung]: Ein Problem mit der Prüfung der Umsatzsteuer-ID wurde behoben.
     - [Barrierefreiheit]: Das Feld 'Postleitzahl' ist nun einheitlich bezeichnet
     - [Hermes]: Bestellungen mit mehr als 10 Labels können ohne Warnungen abgerufen werden
+    - [GX-Customizer]: Die Prüfung der Artikel mit GX Customizer Set im Warenkorb wurde verbessert, so dass jetzt diese Artikel im Warenkorb bleiben
