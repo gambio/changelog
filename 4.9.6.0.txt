@@ -6,7 +6,7 @@
     - [Front-End]: Artikel konnten mit leerem Mindestmengenfeld in den Warenkorb gelegt werden
     - [Front-End]: Das Formular für den Newsletter kann nicht mehr ohne E-Mail-Adresse abgeschickt werden
     - [Admin]: Beim Öffnen eines Kundenprofils wurde ein Fehler behoben, wenn fehlerhafte Artikel und / oder Optionen auf der Merkliste des Kunden vorhanden sind.
-    - [Checkout]: Das '€' Zeichen wurde nach Auswahl einer Versandmethode nicht korrekt dargestellt.
+    - [Checkout]: Das '€' Zeichen wird jetzt nach Auswahl einer Versandmethode korrekt dargestellt.
     - [Administration]: webP Bilder mit transparentem Hintergrund behalten diese nach dem Image Processing
     - [PHP Kompatibilität]: PHP 8.2 Kompatibilität verbessert.
     - [Installer]: Der Gambio Installer benötigt mindestens PHP 8.0
