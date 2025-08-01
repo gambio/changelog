@@ -3,4 +3,3 @@
  -  [Adminbereich] "Als Kunde einloggen" Button fehlt | "Login as customer" button is missing. (70918)
  -  [Adminbereich] Kundendaten exportieren wirft Fehlermeldung | Exporting customer data throws error message. (70917)
  -  [Adminbereich] Guthaben und Änderung von Kundendaten im Kundenkonto werden bei Admin abgespeichert | Balance and changes in the customer data of a customer profile will be saved in the admin. (70916)
- -  [Cloud] Migrate the SampleDataService from Cloud to the public repository. (70921 | Private)
