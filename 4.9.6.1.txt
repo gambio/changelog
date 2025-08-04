@@ -1,0 +1,14 @@
+4.9.6.1:
+    - [Kundenregistrierung]: Das Feld Firma ist standardmäßig Optional und kann in den Einstellungen zum Pflichtfeld gemacht werden
+    - [Barrierefreiheit]: Steuerelemente bei der Mengenauswahl sind nun benannt
+    - [Barrierefreiheit]: Checkout Radio Buttons sind richtig erkennbar
+    - [Barrierefreiheit]: Mengenfeldbezeichnung ist nun Einheitlich
+    - [Kundenregistrierung]: Vorname und Nachname werden nun korrekt gekennzeichnet, wenn diese optional sind
+    - [SEPA]: Die Adresse des Kunden ist nun auch bei seperater Straße + Hausnummer komplett im Mandat
+    - [Theme]: Die Seite scrollt nicht mehr, wenn mehrere Mengenfelder existieren und eines geändert wird
+    - [Rabatt-Coupons]: Start- und Enddatum bei Rabattcoupons wurde verbessert
+    - [Theme]: GX Customizer Tab auf Artikeldetailseite umbenannt in "Personalisieren"
+    - [Gambio Admin]: Ein Fehler wurde behoben, der die Bearbeitung von Bestellungen verhinderte
+    - [Theme]: Kategoriebilder aus Unterordnern werden korrekt angezeigt. Title und Alt Attribute korrigiert
+    - [Kundenregistrierung]: Das Feld Firma ist standardmäßig Optional und kann in den Einstellungen zum Pflichtfeld gemacht werden
+    - [Gambio Admin]: Währungen haben jetzt Pflichtfelder
