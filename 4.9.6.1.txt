@@ -10,5 +10,4 @@
     - [Theme]: GX Customizer Tab auf Artikeldetailseite umbenannt in "Personalisieren"
     - [Gambio Admin]: Ein Fehler wurde behoben, der die Bearbeitung von Bestellungen verhinderte
     - [Theme]: Kategoriebilder aus Unterordnern werden korrekt angezeigt. Title und Alt Attribute korrigiert
-    - [Kundenregistrierung]: Das Feld Firma ist standardmäßig Optional und kann in den Einstellungen zum Pflichtfeld gemacht werden
     - [Gambio Admin]: Währungen haben jetzt Pflichtfelder
