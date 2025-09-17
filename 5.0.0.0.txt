@@ -15,3 +15,7 @@
     - [Gambio Admin]: Nach einem Update sind die Einstellungen nun aufrufbar auch wenn das HubConenctor Update noch nicht installiert ist
     - [Gambio Admin]: Das Datum von Sonderangeboten kann wieder zurück gesetzt werden
     - [GProtector]: Version aktualisiert
+    - [Honeygrid] Theme wird nicht mehr weiterentwickelt!
+    - [Allgemein]: .htaccess Anpassungen bezüglich WebP Bildern funktionierten nicht immer. htaccess Version wurde nicht aktualisiert
+    - [Updater]: Nach einem Update bleibt die Benutzerdefinierte ShopOfflinePage erhalten
+    - [Honeygrid]: Ein Problem mit hohen Ladezeiten wurde behoben.
