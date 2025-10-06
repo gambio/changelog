@@ -5,7 +5,6 @@
     - [Barrierefreiheit]: Deaktivierte Buttons können nicht mehr ausgewählt werden
     - [Barrierefreiheit]: Die Passwort Checkbox auf der Konto erstellen Seite kann jetzt mit der Leertaste gesteuert werden
     - [Barrierefreiheit]: Mengenfeldbezeichnung ist nun Einheitlich
-    - [Gambio Admin]: Artikelbilder können nicht mehr versehentlich im Artikel gelöscht werden. Dies geht nur noch über den Dateimanager
     - [Cross-Selling]: Die Reihenfolge der Artikel entspricht der aus Gambio Admin
     - [Mengenfeld]: Artikelvarianten mit Verpackungseinheit verursachen keine Fehler mehr
     - [Login] Feld E-Mail Adresse wird jetzt auf Gültigkeit geprüft und bei Fehler eine Hinweismeldung angezeigt
