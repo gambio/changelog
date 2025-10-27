@@ -1,0 +1,11 @@
+5.1.0.0:
+    - [Checkout]: Ein Darstellungsfehler bei innergemeinschaftlicher Lieferung wurde behoben
+    - [Store]: Einführung des neuen Stores im GambioAdmin als Beta Version
+    - [Store]: Installierte Module sind unter dem Menüpunkt "Module" zu finden
+    - [Store]: Der Store enthält nun sämtliche verfügbaren Module mit neuer Ansicht
+    - [Store]: Zahlungsweisen und Versandarten sind nun unter Einstellungen zu finden
+        - Diese werden nach und nach in den Store migriert
+    - [Hub]: Die Zahlungsweisen für GambioHub befinden sich unter dem Menüpunkt GambioHub
+    - [Module]: XRechnung Modul v2 ist nun über den Store verfügbar - PHP 8.1 wird mindestens benötigt
+    - [Module]: Erweiterte Herstellerinformationen ist nun über den Store verfügbar
+    - [SEO]: Neue Einstellung für MetaTag auf Folgeseite bei Kategorien hinzugefügt
