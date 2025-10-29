@@ -6,6 +6,5 @@
     - [Store]: Zahlungsweisen und Versandarten sind nun unter Einstellungen zu finden
         - Diese werden nach und nach in den Store migriert
     - [Hub]: Die Zahlungsweisen für GambioHub befinden sich unter dem Menüpunkt GambioHub
-    - [Module]: XRechnung Modul v2 ist nun über den Store verfügbar - PHP 8.1 wird mindestens benötigt
     - [Module]: Erweiterte Herstellerinformationen ist nun über den Store verfügbar
     - [SEO]: Neue Einstellung für MetaTag auf Folgeseite bei Kategorien hinzugefügt
