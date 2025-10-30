@@ -3,8 +3,7 @@
     - [Store]: Einführung des neuen Stores im GambioAdmin als Beta Version
     - [Store]: Installierte Module sind unter dem Menüpunkt "Module" zu finden
     - [Store]: Der Store enthält nun sämtliche verfügbaren Module mit neuer Ansicht
-    - [Store]: Zahlungsweisen und Versandarten sind nun unter Einstellungen zu finden
-        - Diese werden nach und nach in den Store migriert
+    - [GambioAdmin]: Zahlungsweisen und Versandarten sind nun unter Einstellungen zu finden
     - [Hub]: Die Zahlungsweisen für GambioHub befinden sich unter dem Menüpunkt GambioHub
     - [Module]: Erweiterte Herstellerinformationen ist nun über den Store verfügbar
-    - [SEO]: Neue Einstellung für MetaTag auf Folgeseite bei Kategorien hinzugefügt
+    - [SEO]: Neue Option zum Anpassen des Meta-Tags "index,follow" auf Kategorie-Folgeseiten
