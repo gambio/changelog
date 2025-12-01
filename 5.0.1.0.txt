@@ -6,4 +6,4 @@
     - [Gambio Hub]: Fehlende Apple-Domain-Assoziationsdatei (.well-known/apple-developer-merchantid-domain-association) hinzugefügt, die für die Aktivierung von Apple Pay über PayPal erforderlich ist
     - [Cache]: Ein kritischer Fehler wurde behoben, wenn Dateien nicht lesbar waren
     - [Produktbewertungen]: Fehlerhaften Kategorie-Link im Breadcrumb beim Schreiben einer Produktbewertung korrigiert
-    - [SEO]: Neue Einstellung für MetaTag auf Folgeseite bei Kategorien hinzugefügt
+    - [SEO]: Neue Einstellung für MetaTag auf Folgeseite bei Kategorien hinzugefügt (index, follow)
