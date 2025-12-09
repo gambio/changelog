@@ -1,7 +1,7 @@
 5.0.1.0:
     - [ResponsiveFilemanager]: Thumbnail-Generierung für Dateien und Ordner mit Sonderzeichen im Namen (z.B. Leerzeichen) korrigiert, indem die Request-URI vor der Pfad-Zerlegung mit rawurldecode() dekodiert wird
     - [GambioAdmin]: Fehler behoben, bei dem die Länderzonen-Auswahl nicht funktionierte und ein JavaScript-Fehler durch ein ungültiges RegExp-Flag (/v) im kompilierten Vue-Code ausgelöst wurde
-    - [GambioShop]: Blätterfunktion für Artikellisten korrigiert, sodass alle Artikel sowohl in der Desktop- als auch in der mobilen Ansicht vollständig durchgeblättert werden können
+    - [GambioShop]: Swiperfunktion für Artikellisten korrigiert, sodass alle Artikel sowohl in der Desktop- als auch in der mobilen Ansicht vollständig durchgescrollt werden können
     - [Checkout]: Hinweis „Steuerfreie innergemeinschaftliche Lieferung. Steuerschuldnerschaft des Leistungsempfängers" wird bei Bestellungen mit mehreren Steuersätzen nun nur noch einmal angezeigt statt mehrfach pro Steuersatz
     - [Gambio Hub]: Fehlende Apple-Domain-Assoziationsdatei (.well-known/apple-developer-merchantid-domain-association) hinzugefügt, die für die Aktivierung von Apple Pay über PayPal erforderlich ist
     - [Cache]: Ein kritischer Fehler wurde behoben, wenn Dateien nicht lesbar waren
