@@ -1,0 +1,5 @@
+5.0.2.0:
+    - [Sicherheit]: Weitere Verbesserungen zur Erhöhung der allgemeinen Shopsicherheit
+    - [GambioAdmin]: Dashboard-News werden nun unabhängig vom Adminbereich geladen und verarbeitet
+    - [Produkte]: Verbesserungen bei der Verarbeitung und Stabilität von Produktoptionen
+    - [StyleEdit]: Allgemeine Stabilitäts- und Korrekturmaßnahmen
