@@ -1,4 +1,4 @@
-26.3.0:
+26.03.0:
     - [Frontend]: Darstellung von Zeilenumbrüchen in E-Mails aus „Frage zum Produkt“ und „Weiterempfehlen“ wurde korrigiert, sodass mehrzeilige Nachrichten wieder korrekt angezeigt werden.
     - [GambioAdmin]: Es kann jetzt nach Produkten über die EAN / SKU gesucht werden
     - [Bestellungen]: Nach Stornierung einer widerrufenen Bestellung im Backend wird die Erfolgs-Hinweismeldung nun wieder korrekt angezeigt.
